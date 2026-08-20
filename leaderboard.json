@@ -1,0 +1,12 @@
+{
+  "generated_at": "2026-08-20T02:29:08.637356+00:00",
+  "run_id": "31921982694",
+  "run_url": "https://github.com/osimarr/lemonade/actions/runs/31921982694",
+  "repo": "osimarr/lemonade",
+  "repo_url": "https://github.com/osimarr/lemonade",
+  "actions_url": "https://github.com/osimarr/lemonade/actions/workflows/benchmark-regression.yml",
+  "commit": "21af680d016c2c727355171616e66ef0df7a26a1",
+  "lemonade_version": null,
+  "by_model_scenario": {},
+  "history": {}
+}
